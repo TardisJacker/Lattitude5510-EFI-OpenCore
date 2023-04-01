@@ -1,0 +1,39 @@
+Model Number: Dell Latitude 5510
+  https://www.dell.com/support/home/en-us/product-support/product/latitude-15-5510-laptop/drivers
+  https://www.dell.com/support/manuals/en-us/latitude-15-5510-laptop/latitude_5510_specs/processors?guid=guid-5f092418-0837-41ea-9859-74f7e17f91e4&lang=en-us
+  
+CPU: Intel(R) Core(TM) i7-10610U CPU @ 1.80GH
+  https://ark.intel.com/content/www/us/en/ark/products/201896/intel-core-i710610u-processor-8m-cache-up-to-4-90-ghz.html
+  CPU Specifications
+    Total Cores 4
+    Total Threads 8
+    Max Turbo Frequency 4.90 GHz
+    Processor Base Frequency 1.80 GHz
+    Cache 8 MB Intel® Smart Cache
+    Bus Speed 4 GT/s
+    TDP 15 W
+    Configurable TDP-up Base Frequency 2.30 GHz
+    Configurable TDP-up 25 W
+    Configurable TDP-down Base Frequency 800 MHz
+    Configurable TDP-down 10 W
+    
+GPU: Intel UHD 620; Intel Corporation CometLake-U GT2 [UHD Graphics] (rev 02); Intel HD Graphics
+  Processor Graphics ‡ Intel® UHD Graphics for 10th Gen Intel® Processors
+  Graphics Base Frequency 300 MHz
+  Graphics Max Dynamic Frequency 1.15 GHz
+  Graphics Video Max Memory 32 GB
+  Graphics Output eDP/DP/HDMI/DVI
+  Execution Units 24
+  4K Support Yes, at 60Hz
+  Max Resolution (HDMI)‡ 4096 x 2304@24Hz
+  Max Resolution (DP)‡ 4096 x 2304@60Hz
+  Max Resolution (eDP - Integrated Flat Panel)‡ 4096 x 2304@60Hz
+  DirectX* Support 12
+  OpenGL* Support 4.5
+  Intel® Quick Sync Video Yes
+  Intel® Clear Video HD Technology Yes
+  Intel® Clear Video Technology Yes
+  # of Displays Supported ‡ 3
+  Device ID 0x9B41,0x9BCC
+
+Audio: ALC*
